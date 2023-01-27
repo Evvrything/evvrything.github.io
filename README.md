@@ -54,4 +54,4 @@ _______
 # Conclusion
 If all goes well over the next several days, we'll enable the next feature.
 We can't wait till we get to the #IOTA related functions and we hope you'll be excited and patient as we are.
-Good luck guys. 
+Good luck guys 👍.
