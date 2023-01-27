@@ -1,7 +1,7 @@
 # Welcome to the Evvrything public beta test
 `Important notes`
 
-1. To provide feedback, you will need a discord account. You can still try it out without a discord account, but there would be no way for you to inform us about bugs you find any. And bug finds are incentivised 🙂. Our discord channel is -> https://discord.gg/VfCuKyZmpD
+1. To test, you would need a discord account. The app is currently invite only, and this is the place I can share you an invite code.  Bug finds are incentivised 🙂. Our discord channel is -> https://discord.gg/VfCuKyZmpD
 2. This app is a webapp (a website designed to look like an app), therefore you will not be able to install it from an AppStore.
 However, the AppStore version for both iOS/Android are coming. 👍
 3. As stated on the twitter announcement,  
